@@ -58,4 +58,3 @@ The Power BI dashboard highlights:
 ## Project Files
 - `fraud_detection_capstone.ipynb` – Data analysis and machine learning model
 - `fraud_dashboard.png` – Power BI dashboard preview
-- `project_synopsis.pdf` – Project synopsis
